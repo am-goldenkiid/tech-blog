@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "iPhone 14 event date",
+      "body": "According to the report, some Apple retail employees have been told to “prepare for a major new product release on Sept. 16.” The event to announce the iPhone 14 is expected to be virtual. It’s possible some members of the press are invited for hands-on opportunities and private briefings. \nAs we’ve covered in-depth, the iPhone 14 lineup is expected to include four new models: iPhone 14, iPhone 14 Max, iPhone 14 Pro, and iPhone 14 Pro Max. There won’t be an iPhone 14 mini this year. Instead, Apple is planning two models with 6.1-inch screens and two models with 6.7-inch screens.\n\nOther upgrades to expect include a new notch + pill design on the iPhone 14 Pro and iPhone 14 Pro Max, as well as major upgrades to the camera system.",
+      "author": "mario",
+      "id": 12
+    },
+    {
+      "title": "Report: iPhone 14 Pro price increase could be $100, offset by more storage",
+      "body": "In a new investor note shared by Ped30 today, Ives says that Wedbush predicts more consumers than ever before will opt for the iPhone 14 Pro and iPhone 14 Pro Max devices, rather than their lower-cost alternatives. This represents good news for Apple’s coveted average selling price metric, particularly if the $100 price increase does indeed come to fruition.\n\nCurrently, the iPhone 13 Pro starts at $999, while the iPhone 13 Pro Max starts at $1099.\n\nIves writes:\n\nIn particular we believe Apple is expecting another heavy iPhone Pro and Pro Max mix shift which is a clear positive for ASPs heading into FY23. While the base iPhone will stay at the same price we believe a $100 price increase on the iPhone 14 Pro/Pro Max is likely in store given component price increases as well as added functionality on this new release.\n\nFurthermore, Ives also suggests that Apple there could “possibly be some storage enhancements on both the base iPhone 14/Pro.” This implies that Apple could increase the base storage configuration to help offset the price increase. Currently, the iPhone 13 Pro starts at 128GB of storage.\n\nIves is now the second analyst to predict an iPhone 14 Pro and iPhone 14 Pro Max price increase. That being said, we should take his prediction with a grain of salt as his hardware reporting isn’t always reliable.",
+      "author": "yoshi",
+      "id": 13
+    },
+    {
+      "title": "The 6 best Nvidia GPUs of all time",
+      "body": "Nvidia sets the standard so high for its gaming graphics cards that it’s actually hard to tell the difference between an Nvidia GPU that’s merely a winner and an Nvidia GPU that’s really special.\n\nNvidia has long been the dominant player in the graphics card market, but the company has from time to time been put under serious pressure by its main rival AMD, which has launched several of its own iconic GPUs. Those only set Nvidia up for a major comeback, however, and sometimes that led to a real game-changing card.\n\nIt was hard to choose which Nvidia GPUs were truly worthy of being called the best of all time, but I’ve narrowed down the list to six cards that were truly important and made history...\n\n",
+      "author": "mario",
+      "id": 14
+    },
+    {
+      "title": "I desperately want a foldable iPhone, but iOS still isn’t ready for it",
+      "body": "If there’s one thing that causes many iPhone enthusiasts to look enviously at the world of Android smartphones, it’s the much wider array of designs and form factors available. While Apple refines its designs every few years, it has rarely done anything that most folks would consider radical.\n\nPerhaps the most significant departure from traditional smartphone designs has been the return to the foldable phones of yesteryear. Samsung’s latest Galaxy Z Fold 4 and Z Flip 4 have piqued my interest more than ever, but even before those came along, there have been other handsets that have made me wish that Apple would think differently about its hardware designs. And while I don’t doubt Apple’s hardware for a foldable iPhone could be great, I think the real struggle lies with making iOS useful for a foldable.\n\nOf course, rumors have abounded for years that Apple is spitballing ideas for a foldable iPhone. Reports of partnerships with LG Display surfaced in 2017, and some sources indicate that Apple has been actively testing hinges and screens for the past couple of years.\n\nThere’s no doubt that Apple wants to be absolutely sure it gets the hardware right before it even thinks of releasing a foldable iPhone. It’s not in the company’s culture to fail publicly with prototype-like devices. However, as Samsung has recently shown us, there’s a lot more to creating a foldable iPhone than just the hardware. If you want to create the best user experience possible, the software has to be up to the task also. And that’s another area where Apple has its work cut out for it.",
+      "author": "yoshi",
+      "id": 15
+    }
+  ]
+}
